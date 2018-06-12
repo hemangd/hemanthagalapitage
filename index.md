@@ -2,5 +2,5 @@ Hello there! I’m an experienced web application engineer with a passion for cl
 
 --------------------------------------------------------------------------------------
 HEMANTHA GALAPITAGE
-Game Programmer
+Experienced Web Engineer
 https://github.com/hemangd | https://www.linkedin.com/in/hemanthagalapitage/ | https://twitter.com/hgalapitage
